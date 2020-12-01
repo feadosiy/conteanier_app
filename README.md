@@ -1,4 +1,5 @@
 
+TEST
 ## This is small Golang application. ##
 
 Please compleate tasks below:
